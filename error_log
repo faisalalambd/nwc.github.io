@@ -1,0 +1,84 @@
+[24-Oct-2022 07:12:42 America/New_York] PHP Warning:  Undefined variable $conn in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 635
+[24-Oct-2022 07:12:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/srsomgcd/nwc.srsoftbd.xyz/index.php:635
+Stack trace:
+#0 {main}
+  thrown in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 635
+[24-Oct-2022 07:26:15 America/New_York] PHP Warning:  Undefined variable $conn in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 655
+[24-Oct-2022 07:26:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/srsomgcd/nwc.srsoftbd.xyz/index.php:655
+Stack trace:
+#0 {main}
+  thrown in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 655
+[26-Dec-2022 08:53:30 America/New_York] PHP Warning:  include(adimin/config.php): Failed to open stream: No such file or directory in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 4
+[26-Dec-2022 08:53:30 America/New_York] PHP Warning:  include(): Failed opening 'adimin/config.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 4
+[26-Dec-2022 08:53:30 America/New_York] PHP Warning:  Undefined variable $conn in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 18
+[26-Dec-2022 08:53:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/srsomgcd/nwc.srsoftbd.xyz/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 18
+[26-Dec-2022 08:55:25 America/New_York] PHP Warning:  include(adimin/config.php): Failed to open stream: No such file or directory in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 4
+[26-Dec-2022 08:55:25 America/New_York] PHP Warning:  include(): Failed opening 'adimin/config.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 4
+[26-Dec-2022 08:55:25 America/New_York] PHP Warning:  Undefined variable $conn in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 18
+[26-Dec-2022 08:55:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/srsomgcd/nwc.srsoftbd.xyz/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 18
+[26-Dec-2022 08:55:26 America/New_York] PHP Warning:  include(adimin/config.php): Failed to open stream: No such file or directory in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 4
+[26-Dec-2022 08:55:26 America/New_York] PHP Warning:  include(): Failed opening 'adimin/config.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 4
+[26-Dec-2022 08:55:26 America/New_York] PHP Warning:  Undefined variable $conn in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 18
+[26-Dec-2022 08:55:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/srsomgcd/nwc.srsoftbd.xyz/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 18
+[26-Dec-2022 08:55:28 America/New_York] PHP Warning:  include(adimin/config.php): Failed to open stream: No such file or directory in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 4
+[26-Dec-2022 08:55:28 America/New_York] PHP Warning:  include(): Failed opening 'adimin/config.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 4
+[26-Dec-2022 08:55:28 America/New_York] PHP Warning:  Undefined variable $conn in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 18
+[26-Dec-2022 08:55:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/srsomgcd/nwc.srsoftbd.xyz/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 18
+[26-Dec-2022 08:55:30 America/New_York] PHP Warning:  include(adimin/config.php): Failed to open stream: No such file or directory in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 4
+[26-Dec-2022 08:55:30 America/New_York] PHP Warning:  include(): Failed opening 'adimin/config.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 4
+[26-Dec-2022 08:55:30 America/New_York] PHP Warning:  Undefined variable $conn in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 18
+[26-Dec-2022 08:55:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/srsomgcd/nwc.srsoftbd.xyz/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 18
+[26-Dec-2022 08:56:19 America/New_York] PHP Warning:  include(adimin/config.php): Failed to open stream: No such file or directory in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 4
+[26-Dec-2022 08:56:19 America/New_York] PHP Warning:  include(): Failed opening 'adimin/config.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 4
+[26-Dec-2022 08:56:19 America/New_York] PHP Warning:  Undefined variable $conn in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 18
+[26-Dec-2022 08:56:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/srsomgcd/nwc.srsoftbd.xyz/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 18
+[26-Dec-2022 08:56:58 America/New_York] PHP Warning:  include(adimin/config.php): Failed to open stream: No such file or directory in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 4
+[26-Dec-2022 08:56:58 America/New_York] PHP Warning:  include(): Failed opening 'adimin/config.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 4
+[26-Dec-2022 08:56:58 America/New_York] PHP Warning:  Undefined variable $conn in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 18
+[26-Dec-2022 08:56:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/srsomgcd/nwc.srsoftbd.xyz/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 18
+[26-Dec-2022 09:14:32 America/New_York] PHP Warning:  Undefined array key "title" in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 116
+[26-Dec-2022 09:14:32 America/New_York] PHP Warning:  Undefined array key "paragraph" in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 117
+[26-Dec-2022 09:14:32 America/New_York] PHP Warning:  Undefined array key "title" in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 116
+[26-Dec-2022 09:14:32 America/New_York] PHP Warning:  Undefined array key "paragraph" in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 117
+[26-Dec-2022 09:14:32 America/New_York] PHP Warning:  Undefined array key "title" in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 116
+[26-Dec-2022 09:14:32 America/New_York] PHP Warning:  Undefined array key "paragraph" in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 117
+[26-Dec-2022 09:14:32 America/New_York] PHP Warning:  Undefined array key "title" in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 116
+[26-Dec-2022 09:14:32 America/New_York] PHP Warning:  Undefined array key "paragraph" in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 117
+[26-Dec-2022 09:14:32 America/New_York] PHP Warning:  Undefined array key "title" in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 116
+[26-Dec-2022 09:14:32 America/New_York] PHP Warning:  Undefined array key "paragraph" in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 117
+[27-Dec-2022 01:20:12 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '>3' at line 1 in /home/srsomgcd/nwc.srsoftbd.xyz/index.php:169
+Stack trace:
+#0 /home/srsomgcd/nwc.srsoftbd.xyz/index.php(169): mysqli->query()
+#1 {main}
+  thrown in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 169
+[27-Dec-2022 01:25:34 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '<4' at line 1 in /home/srsomgcd/nwc.srsoftbd.xyz/index.php:169
+Stack trace:
+#0 /home/srsomgcd/nwc.srsoftbd.xyz/index.php(169): mysqli->query()
+#1 {main}
+  thrown in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 169
+[27-Dec-2022 01:25:42 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '<4' at line 1 in /home/srsomgcd/nwc.srsoftbd.xyz/index.php:169
+Stack trace:
+#0 /home/srsomgcd/nwc.srsoftbd.xyz/index.php(169): mysqli->query()
+#1 {main}
+  thrown in /home/srsomgcd/nwc.srsoftbd.xyz/index.php on line 169
